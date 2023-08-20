@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)**nbac406/nbac406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![reversal](https://capsule-render.vercel.app/api?type=slice&text=JB&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
+**nbac406/nbac406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
