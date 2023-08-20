@@ -3,7 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=JB&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=55)
 
 **nbac406/nbac406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
+
+
+<img src="https://img.shields.io/badge/Python-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
 
 
 
