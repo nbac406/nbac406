@@ -1,4 +1,4 @@
-### Hi there 👋
+### About me 👋
 - - -
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=JB&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=55)
 
@@ -43,5 +43,5 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@somm)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@nbac406)
 </div>
